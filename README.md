@@ -20,8 +20,8 @@ A Python program that generates a secure random password using letters, numbers,
 ## Example Output
 Example generated password:
 A7$kdP1!xQ9z
+
 ## Author
 Meghana A
 
-## Author
-Your Name
+
